@@ -1,5 +1,8 @@
 # Rehighlighter
 
+<img width="1552" height="904" alt="Screenshot 2026-03-05 at 14 02 13" src="https://github.com/user-attachments/assets/e3cc6589-365b-4717-8170-51677544a89f" />
+
+
 A fast, cross-platform log viewer built with [egui](https://github.com/emilk/egui). Open large log files instantly, search with multiple simultaneous highlighted terms, filter lines, and explore activity over time with a timestamp histogram.
 
 ![Rust](https://img.shields.io/badge/rust-1.75%2B-orange)
