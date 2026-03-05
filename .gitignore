@@ -1,0 +1,25 @@
+# Build output
+/target/
+
+# Cargo lock is kept for binaries
+# Cargo.lock
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment / secrets
+.env
+*.pem
+*.key
+credentials*
+
+# Claude memory (local only)
+.claude/
